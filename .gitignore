@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Data & state
+/data/
+!data/.gitkeep
+
+# Databases
+*.duckdb*
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Streamlit & Prefect
+.streamlit/
+.prefect/
