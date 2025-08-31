@@ -1,6 +1,6 @@
 # WooCommerce → Warehouse ETL (Python)
 
-A production-leaning, portfolio-ready ETL that ingests **WooCommerce** orders, **enriches** items with product categories, **applies refunds/partials**, and loads into a **DuckDB** warehouse. Ships with a **Streamlit** dashboard and optional **email notifications** + **Prefect** orchestration.
+A production-ready ETL that ingests **WooCommerce** orders, **enriches** items with product categories, **applies refunds/partials**, and loads into a **DuckDB** warehouse. Ships with a **Streamlit** dashboard and optional **email notifications** + **Prefect** orchestration.
 
 ## ✨ Features
 
